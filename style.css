@@ -1,0 +1,140 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: #E7DFD8;
+  }
+
+#imgBack {
+    position: relative;
+}
+#back {
+    pointer-events: none;
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: 9999;
+    opacity: 0.5;
+}
+ .main {
+    display: flex;
+    position: absolute;
+    width: 420px;
+    height: 120px;
+    left: 168px;
+    top: 227px;
+    gap: 60%;
+ }
+
+
+  .title {
+    font-size: 60px;
+    height: 120px;
+    width: 420px;
+    padding-left: 15%;
+    padding-top: 15%;
+
+}
+
+  .main2 {
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 70px 20px;
+    
+    width: 200px;
+    height: 155px;
+    left: 660px;
+    top: 225px;
+  }
+
+  .about {
+    margin: 5%;
+    
+}
+
+.icons {
+    padding: 0 11px;
+}
+
+.link {
+    text-decoration: none;
+}
+
+
+header {
+    padding: 20px;
+
+  }
+  h1 {
+    margin: 0;
+    font-size: 15px;
+  }
+
+#menu {
+
+    list-style-type: none;
+    position: absolute;
+    right: 0;
+    margin-right: 10%;
+    display: flex;
+
+}
+#menu li {
+    text-decoration: none;
+    padding-right: 20px;
+}
+
+#menu li a {
+    color: rgb(75, 75, 75);
+    text-decoration: none;
+}
+
+.aboutMe {
+    font-size: 15px;
+    display: flex;
+    margin-top: 30%;
+    width: 180%;
+    height: 120px;
+    flex-direction: column;
+}
+
+.work {
+    margin-top: 30%;
+    font-size: 15px;
+}
+
+#mobilizeLogo {
+    text-align: center;
+}
+.logo1 {
+    height: 32px;
+    text-align: center;
+}
+.logo2 {
+    height: 20px;
+    text-align: center;
+
+}
+.date {
+    color: gray;
+    font-size: 12px;
+} 
+
+#education {
+    position: absolute;
+    width: 210px;
+    height: 1043.12px;
+    left: 660px;
+    top: 528px;
+    margin: 0;
+    padding: 0;
+    line-height: 1.2;
+}
+
+#education a {
+    text-decoration: none;
+    color: #358ab1;
+}
+
+
+
