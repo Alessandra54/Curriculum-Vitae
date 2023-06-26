@@ -1,5 +1,7 @@
 <h1 align="center"> Curriculum Vitae </h1>
 
+
+
 <p>Bem-vindo ao meu repositório online do Curriculum Vitae! Este repositório serve como uma apresentação da minha trajetória profissional, habilidades e conquistas.</p>
 
 <h2>Sobre Mim</h2>

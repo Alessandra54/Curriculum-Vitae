@@ -58,6 +58,7 @@ body {
 
 .container .card .content h3 {
     font-size: 1.8em;
+    margin-bottom: 8px;
     color: #3b3b3d;
     z-index: 1;
 }
